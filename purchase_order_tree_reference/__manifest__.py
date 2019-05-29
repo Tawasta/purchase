@@ -20,9 +20,8 @@
 ##############################################################################
 
 {
-    'name': 'Add Purchase Order reference on tree view',
-    'summary': """
-        This module adds Purchase Order reference on tree view""",
+    'name': 'Add reference-field on Purchase Order tree view',
+    'summary': 'Add reference-field on Purchase Order tree view',
     'version': '10.0.1.0.0',
     'category': 'Purchases',
     'website': 'https://tawasta.fi',
