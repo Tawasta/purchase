@@ -5,7 +5,6 @@ from odoo import models, fields
 from odoo.addons.purchase.models.purchase import PurchaseOrder as purchase_o
 
 
-
 class PurchaseOrder(models.Model):
 
     _inherit = 'purchase.order'
