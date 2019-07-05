@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from odoo import _, api, models
+from odoo import api, models
 
 
 class PurchaseRequestLineMakePurchaseOrder(models.TransientModel):
